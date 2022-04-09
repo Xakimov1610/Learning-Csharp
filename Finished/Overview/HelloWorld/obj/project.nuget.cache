@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "feGpZAFMbDGoZdGz6VOy5wPW/xlliVydy9SmhVTDtNEoyZ7mEPvf01UYSPbv8qtaZYD7XGpLTL2nLN1WzqkmgQ==",
+  "dgSpecHash": "JWs+BD4+CJJDF3ORqxqPVMlakOOSy7Izm6BLZdV/7MoJBPbpiDb1aooCGXB19aU5EvqqlZwYrBrd0cypnLpwrg==",
   "success": true,
-  "projectFilePath": "/Users/xakimov/Dev/LearningC#/Finished/Overview/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/xakimov/Dev/LearningC#/Start/Overview/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

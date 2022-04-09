@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/bin/Debug/net6.0/Defining
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/bin/Debug/net6.0/Defining.deps.json
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/bin/Debug/net6.0/Defining.runtimeconfig.json
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/bin/Debug/net6.0/Defining.dll
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/bin/Debug/net6.0/Defining.pdb
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfo.cs
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.dll
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/refint/Defining.dll
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.pdb
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/Defining.genruntimeconfig.cache
+/Users/xakimov/Dev/LearningC#/Finished/Classes/Defining/obj/Debug/net6.0/ref/Defining.dll

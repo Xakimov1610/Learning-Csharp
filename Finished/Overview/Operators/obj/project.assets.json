@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xakimov/Dev/LearningC#/Finished/Overview/Operators/Operators.csproj",
+      "projectUniqueName": "/Users/xakimov/Dev/LearningC#/Start/Overview/Operators/Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "/Users/xakimov/Dev/LearningC#/Finished/Overview/Operators/Operators.csproj",
+      "projectPath": "/Users/xakimov/Dev/LearningC#/Start/Overview/Operators/Operators.csproj",
       "packagesPath": "/Users/xakimov/.nuget/packages/",
-      "outputPath": "/Users/xakimov/Dev/LearningC#/Finished/Overview/Operators/obj/",
+      "outputPath": "/Users/xakimov/Dev/LearningC#/Start/Overview/Operators/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/xakimov/.nuget/NuGet/NuGet.Config"
