@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xakimov/Dev/LearningC#/Start/Overview/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/xakimov/Dev/LearningC#/Finished/Overview/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/xakimov/Dev/LearningC#/Start/Overview/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/xakimov/Dev/LearningC#/Finished/Overview/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/xakimov/.nuget/packages/",
-      "outputPath": "/Users/xakimov/Dev/LearningC#/Start/Overview/HelloWorld/obj/",
+      "outputPath": "/Users/xakimov/Dev/LearningC#/Finished/Overview/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/xakimov/.nuget/NuGet/NuGet.Config"
