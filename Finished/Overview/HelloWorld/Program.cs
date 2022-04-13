@@ -2,20 +2,24 @@
 
 // The namespace makes it easier to organize our application and 
 // avoid name collisions with other code
+
+// namespacelar ilovamizni tartibga solishni osonlashtiradi va 
+// boshqa kodlar bilan nomlar to'qnashuvining oldini oladi
 namespace HelloWorld
 {
     // In .NET our program is contained within its own class
     class Program
     {
-        // The main function is the entry point into our app
+        // (main) Asosiy funktsiya bizning ilovamizga kirish nuqtasidir
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("What is your name?");
+            Console.WriteLine("Salom Dunyo !");
+            Console.WriteLine("Ismingiz nima ?");
 
-            // create a string variable and ask the user for some input
+            //string o'zgaruvchisini yaratish va foyldalanuvchidan ma'lumot qabul qilish
+            
             string str = Console.ReadLine();
-            Console.WriteLine("Why, hello there " + str);
+            Console.WriteLine("Salom " + str);
         }
     }
 }
